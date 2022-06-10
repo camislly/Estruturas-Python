@@ -1,6 +1,4 @@
-## Trabalhando Estruturas no Python :snake: :snake: 
-
-
+#### :arrow_right_hook: 09/06/2022 Trabalhando Estruturas no Python :snake:  
 #### Estruturas de Decisão
 * Com exercícios
 
@@ -11,3 +9,14 @@
 
 
 ***Camilly Ariadne e Janaina Figueiredo*** :heart:
+
+*_____________________________________________*
+
+
+
+####  :arrow_right_hook: 10/06/2022 - Atualização
+
+Trabalhando Funções :globe_with_meridians:
+* Com exercícios
+  
+***Camilly Ariadne e Isabella Barbosa*** :heart:
